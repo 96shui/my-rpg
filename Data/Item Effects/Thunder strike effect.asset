@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afc263962c49a2347b48ddb48d0032cf, type: 3}
+  m_Name: Thunder strike effect
+  m_EditorClassIdentifier: 
+  thurderStrikePrefab: {fileID: 8101867608354224734, guid: ce3d2c21a64883240bbf6cec453a61bc, type: 3}
